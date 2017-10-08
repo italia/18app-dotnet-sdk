@@ -3,7 +3,7 @@
 
 ## Esempio
 
-```
+```csharp
 var codice = "abcdefg";
 var voucher = new Voucher { Codice = codice };
 var result = await voucher.VerificaAsync();
