@@ -25,3 +25,9 @@ Stato:
 * [x] Documentazione markdown e README
 * [ ] Test estensivi
 * [ ] Pacchetto Nuget
+
+## Commenti
+
+Installare i due `.cer` come Trusted CA in Local Machine;  
+Installare il p12 di prova come Personal in Local Machine;  
+Far girare Visual Studio (o la app) come Amministratore
