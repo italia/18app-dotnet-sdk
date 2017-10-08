@@ -18,16 +18,10 @@ if (res)
 
 Stato:
 
-[x] Api
-
-[x] Documentazione inline
-
-[x] Applicazione di esempio
-
-[ ] Interprete per i soap fault.
-
-[x] Documentazione markdown e README
-
-[ ] Test estensivi
-
-[ ] Pacchetto Nuget
+* [x] Api
+* [x] Documentazione inline
+* [x] Applicazione di esempio
+* [ ] Interprete per i soap fault.
+* [x] Documentazione markdown e README
+* [ ] Test estensivi
+* [ ] Pacchetto Nuget
