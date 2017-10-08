@@ -27,7 +27,7 @@ Importo: {result.Importo}
 Nome B.: {result.NominativoBeneficiario}
 P. IVA:  {result.PartitaIvaEsercente}
 ");
-            var res = await voucher.ConfermaAsync(100.0);
+            var res = await voucher.ConfermaAsync(1);
 
             if (res)
                 Console.WriteLine("Successo :-)");
@@ -38,6 +38,7 @@ P. IVA:  {result.PartitaIvaEsercente}
         static void Main(string[] args)
         {
             MainAsync().GetAwaiter().GetResult();
+            Console.ReadLine();
         }
     }
 }
