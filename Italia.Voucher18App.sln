@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italia.Voucher18App.Example", "Italia.Voucher18App.Example\Italia.Voucher18App.Example.csproj", "{45ACB1D4-16E4-4D93-AE31-9BDC4E086870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italia.Voucher18App", "Italia.Voucher18App\Italia.Voucher18App.csproj", "{223CEED2-3724-46A1-AE32-3961BAFC3715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ACB1D4-16E4-4D93-AE31-9BDC4E086870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ACB1D4-16E4-4D93-AE31-9BDC4E086870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ACB1D4-16E4-4D93-AE31-9BDC4E086870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ACB1D4-16E4-4D93-AE31-9BDC4E086870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223CEED2-3724-46A1-AE32-3961BAFC3715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223CEED2-3724-46A1-AE32-3961BAFC3715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223CEED2-3724-46A1-AE32-3961BAFC3715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223CEED2-3724-46A1-AE32-3961BAFC3715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3772AA6-BAAC-4BB5-ABBE-B3D83651AC18}
+	EndGlobalSection
+EndGlobal
